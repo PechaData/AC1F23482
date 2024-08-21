@@ -1,0 +1,23 @@
+{
+  "id_": "AC1F23482",
+  "segments_metadata": {
+    "I94B29472": {
+      "type": "Root_Segment",
+      "relation": "Source",
+      "lang": "Tibetan",
+      "base": "d833",
+      "layer": "Root_Segment-be0.json"
+    },
+    "I7DE75DD2": {
+      "type": "Commentary",
+      "relation": "Target",
+      "lang": "Tibetan",
+      "base": "f854",
+      "layer": "Commentary-709.json"
+    }
+  },
+  "source_metadata": {
+    "type": "Root_Commentary",
+    "source": "https://github.com/Esukhia/chojuk-alignement/tree/master/Thokme-final"
+  }
+}
